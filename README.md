@@ -1,7 +1,13 @@
-# Blog Maquina Expendedora
+# Práctica 3: Máquina Expendedora Cafe
 
 ## Indice
-
+1. [Introducción y Arquitectura del Sistema](#1-introducción-y-arquitectura-del-sistema)
+2. [Montaje Hardware y Conexiones](#2-montaje-hardware-y-conexiones)
+3. [Implementación por Hilos (ArduinoThread)](#3-implementación-por-hilos-arduinothread)
+4. [Gestión de Interrupciones Hardware](#4-gestión-de-interrupciones-hardware)
+5. [Seguridad: Temporizador Watchdog](#5-seguridad-temporizador-watchdog)
+6. [Problemas encontrados y soluciones](#6-problemas-encontrados-y-soluciones)
+7. [Demostración](#7-demostración)
 ---
 
 ## Detalles implementacion
