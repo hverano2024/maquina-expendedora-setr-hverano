@@ -82,5 +82,4 @@ Para garantizar la recuperación automática ante cualquier bloqueo imprevistoin
 ---
 
 ## 7. Demostración
-
-https://youtu.be/0cBU_-UbIYshatsApp Video 2026 11 23 at 00 53 13
+[![Vídeo Circuito](https://img.youtube.com/vi/0cBU_-UbIYs/0.jpg)](https://www.youtube.com/watch?v=0cBU_-UbIYs)
